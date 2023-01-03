@@ -17,5 +17,3 @@ $ make re
 ```
 $ ./ftrace ./program to analyse
 ```
-
-Once a widget is created you can only change the value of the modifier.
