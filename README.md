@@ -8,7 +8,6 @@ Project uses the C language.
 ## Setup
 To run this project:
 - clone the repo
-- 
 ```
 $ make re
 ```
